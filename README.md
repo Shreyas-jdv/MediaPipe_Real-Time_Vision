@@ -26,3 +26,9 @@ Make sure you have Python installed (preferably Python 3.8 to 3.11 for optimal M
 2. **Install the required dependencies** using pip:
    ```bash
    pip install opencv-python mediapipe
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute the software in accordance with the terms of the license.
